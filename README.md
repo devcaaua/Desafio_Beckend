@@ -1,5 +1,6 @@
 # Desafio_Beckend
-API de Controle de Inventário
+
+- API de Controle de Inventário
 Descrição do projeto
 Este projeto consiste em uma API para controle de inventário de patrimônio. A aplicação permite consultar, cadastrar, alterar e excluir registros de itens do inventário.
 Os dados são armazenados em um arquivo JSON, sem a utilização de banco de dados.
